@@ -1,0 +1,12 @@
+html{
+    background-color: white;
+    font-family: sans-serif;
+}
+.cont{
+    display: flex;
+    justify-content: space-around;
+}
+.owl{
+    display: flex;
+    justify-content: center;
+}
